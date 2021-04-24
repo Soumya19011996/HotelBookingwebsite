@@ -1,0 +1,19 @@
+.main{
+    height: 100%;
+    width: 100%;
+}
+#logo {
+    height: 60px;
+    width: 60px;
+}
+.image{
+    height: 500px;
+    width: 500px;
+}
+.socialmedia {
+    height: 20px;
+    width: 22px;
+}
+body{
+    background-color: blue;
+}
