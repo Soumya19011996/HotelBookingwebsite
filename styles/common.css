@@ -1,0 +1,22 @@
+.main{
+    height: 100%;
+    width: 100%;
+}
+#logo {
+    height: 60px;
+    width: 60px;
+}
+.socialmedia {
+    height: 20px;
+    width: 22px;
+}
+body{
+    margin: 0px;
+    background-color: #e0e0e0;
+}
+header{
+    background-color: rosybrown; 
+ }
+footer{
+     background-color: rosybrown;
+ }

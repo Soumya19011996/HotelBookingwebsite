@@ -1,16 +1,26 @@
-.main{
-    height: 100%;
-    width: 100%;
-}
-#logo {
-    height: 60px;
-    width: 60px;
-}
+
 .image{
     height: 150px;
     width: 150px;
 }
-.socialmedia {
-    height: 20px;
-    width: 22px;
+
+body{
+    margin: 0px;
+    background-color: #e0e0e0;
+}
+
+#image1{
+    background-color:rgb(132,136,139);
+    width: 40%;
+    margin: 2%;
+}
+#image2{
+    background-color:rgb(132,136,139);
+    width: 40%;
+    margin: 2%;
+}
+#image3{
+    background-color:rgb(132,136,139);
+    width: 40%;
+    margin: 2%;
 }
