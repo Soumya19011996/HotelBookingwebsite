@@ -1,26 +1,34 @@
-
+.hotels{
+    margin: 2%;
+    background-color: rgb(132,136,139);
+    width: 40%;
+    height: auto;
+    display: block;
+   
+    
+}
 .image{
-    height: 150px;
-    width: 150px;
+    width:250px;
+    height:200px;
+   
 }
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-weight: bold;
+    color: #000;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding-top: 5em;
 
-body{
-    margin: 0px;
-    background-color: #e0e0e0;
 }
-
-#image1{
-    background-color:rgb(132,136,139);
-    width: 40%;
-    margin: 2%;
+#list-view {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-bottom: 4em;
 }
-#image2{
-    background-color:rgb(132,136,139);
-    width: 40%;
-    margin: 2%;
-}
-#image3{
-    background-color:rgb(132,136,139);
-    width: 40%;
-    margin: 2%;
+#map-view{
+    display: none;
 }

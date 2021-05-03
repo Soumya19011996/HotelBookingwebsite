@@ -2,17 +2,16 @@
 .image{
     height: 500px;
     width: 500px;
-    position:center;
     
 }
 .container{
     background-color: rgb(132,136,139);
-    height: 20%;
     width: 50%;
+    height: 20%;
     margin-top: 2%;
     margin-bottom: 2%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+   
 }
 
 .name{
@@ -23,4 +22,12 @@
     border: 1px solid black;
     border-radius: 5px;
     padding: 1% 2%;
+}
+.content{
+    padding-top:4em;
+    padding-bottom: 4em;
+}
+.pay{
+    padding-bottom: 2em;
+    
 }
