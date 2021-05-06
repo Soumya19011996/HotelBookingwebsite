@@ -31,11 +31,8 @@
 }
 
 #adult, #name, #fromDate, #toDate, #price{
-    display: flex;
     text-align: left;
     flex-basis: 60%;
-
-
 }
 
 .bookNow{
@@ -48,3 +45,16 @@
 #div3{
     margin: 1% 4% 2%;
 }
+#Bu,#Bu1{
+    display: none;
+     
+ }
+ 
+ #unique{
+     background-size: auto;
+ }
+ 
+ #so{
+     padding-top: 3em;
+     padding-bottom: 5em;
+ }

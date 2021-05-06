@@ -5,39 +5,36 @@
     
 }
 .container{
-    background-color: rgb(132,136,139);
-    width: 40%;
+    background-color:  rgb(132,136,139);
+    width: 50%;
     height: 20%;
-    margin-top: 2%;
-    margin-bottom: 2%;
-    margin: auto;
+    margin: 8% auto 2% auto;
     display: flex;
-    flex-direction: row;
+    
    
 }
 .address{
-    justify-content: space-evenly;
-    padding:1em;
+   
+    padding: 4% 2%;
 }
 .paymentdetails{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-    padding: 1% 2%;
+    margin: 0 2% 10% 2%;
     border: 1px solid black;
-    margin: 20px;
     background-color: rosybrown;
     border-radius: 5px;
 }
 
-
 .content{
-    padding-top:4em;
-    padding-bottom: 4em;
+    display: flex;
+    flex-direction: column;
    
 }
 .pay{
-    justify-content: center;
+    
+    margin: 2% 0;
     
 }
