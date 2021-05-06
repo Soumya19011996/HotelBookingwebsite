@@ -63,3 +63,6 @@ display: none;
   text-decoration: none;
   color: black;
 }
+.checked {
+    color: orange;
+}
